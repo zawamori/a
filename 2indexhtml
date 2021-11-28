@@ -62,9 +62,9 @@ zawamori
 <nav>
 <ul>
 
-<li><a href="index2.html">Top</a>
-<li><a href="sample.html">Profile</a>
-<li><a href="sample02.html">Scratch</a>
+<li><a href="index.html">Top</a>
+<li><a href="1index.html">Profile</a>
+<li><a href="2index.html">Scratch</a>
 <!--
 <li><span>Illust</span>
  <ul class="sub-menu">
@@ -117,8 +117,8 @@ zawamori
 
 <!-- jquery -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script src="js/jquery.height.js"></script>
-<script src="js/jquery.scroll.js"></script>
-<script src="js/jquery.toggle.js"></script>
+<script src="jquery.height.js"></script>
+<script src="jquery.scroll.js"></script>
+<script src="jquery.toggle.js"></script>
 </body>
 </html>
